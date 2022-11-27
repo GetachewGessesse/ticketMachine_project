@@ -17,12 +17,13 @@ Your program will ask the consumer which of the places they wish to visit, and d
 area they choose, it will assign them a relevant turn number.
 
 I used python 3 and pycharm to write the code.
-This project has three main parts named: pizza_apps, pizza_main and pizza_utiles.
-On pizza_apps file there is the main code of the project, on pizza_main file,
-there is call for every function and on pizza_utiles, there is help function 
+This project has three main parts named: ticket_machine_apps, ticket_machine_main and ticket_machine_utiles.
+On ticket_machine_apps file there is the main code of the project, on ticket_machine_main file,
+there is call for every function and on ticket_machine_utiles, there is help function 
 called random inorder to help the customer to play luck game and get discount.
 
-At the end of the program, the program calculates the total price of the pizza
-orders with the discount value and gives result for the customers.
+At the end of the program, Customers will take different numbers for different areas (perfumes, medicine, cosmetics) in
+different orders, so the system must keep track of how many numbers it has given for each of
+those areas and produce the next number for each as they request it.
 
 *****************************************************************
